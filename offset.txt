@@ -23,3 +23,7 @@ inventory:0x988
 equippable:0x248
 weaponstate:0xcf0
 ping:0x3bc
+lastsubmitime:0x380
+lastrendertime:0x384
+recentlyrendered:0x71f
+controlrotation:0x428
