@@ -27,3 +27,5 @@ lastsubmitime:0x380
 lastrendertime:0x384
 recentlyrendered:0x71f
 controlrotation:0x428
+spiketimer:0x4bc
+defuse:0x4d8
